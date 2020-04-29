@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/AtomicData.cpp
+AtomicData.h
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/AtomicData.h
+fstream
+-
+iostream
+-
+cmath
+-
+
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/AtomicData.h
+vector
+-
+
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/Material.cpp
+Material.h
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/Material.h
+AtomicData.h
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/AtomicData.h
+
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/Material.h
+string
+-
+vector
+-
+
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/Spectrum.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+cstdlib
+-
+Spectrum.h
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/Spectrum.h
+
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/Spectrum.h
+vector
+-
+
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/main.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+AtomicData.h
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/AtomicData.h
+Material.h
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/Material.h
+Spectrum.h
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/Spectrum.h
+

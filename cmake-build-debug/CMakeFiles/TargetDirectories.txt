@@ -1,0 +1,3 @@
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/moazelshebly/Desktop/X-Rays without X-Rays/Assignment 2/Material/cmake-build-debug/CMakeFiles/Material.dir
